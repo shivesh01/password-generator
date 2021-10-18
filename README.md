@@ -1,3 +1,3 @@
 # Password-Generator
 
-[](./demo.gif)
+![](./demo.gif)
